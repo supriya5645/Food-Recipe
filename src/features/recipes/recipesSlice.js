@@ -2,8 +2,8 @@ import { createSlice, createAsyncThunk, current } from "@reduxjs/toolkit";
 import axios from "axios";
 
 const API_URL = "https://api.edamam.com/api/recipes/v2";
-const APP_ID = "a5de3521";
-const APP_KEY = "28f8a20bd893e2740e68d4bbb349b977";
+const APP_ID = "900da95e";
+const APP_KEY = "40698503668e0bb3897581f4766d77f9	";
 
 // Load favorites from localStorage
 const loadFavorites = () => {
