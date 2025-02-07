@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Food-Recipe/static/js/main.676e40a1.js",
+    "main.js": "/Food-Recipe/static/js/main.f7e5c404.js",
     "index.html": "/Food-Recipe/index.html",
-    "main.676e40a1.js.map": "/Food-Recipe/static/js/main.676e40a1.js.map"
+    "main.f7e5c404.js.map": "/Food-Recipe/static/js/main.f7e5c404.js.map"
   },
   "entrypoints": [
-    "static/js/main.676e40a1.js"
+    "static/js/main.f7e5c404.js"
   ]
 }
